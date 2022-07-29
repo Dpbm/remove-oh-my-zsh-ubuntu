@@ -2,7 +2,7 @@
 
 # Remove [Oh my ZSH](https://ohmyz.sh/) from [Ubuntu](https://ubuntu.com/) based distros
 
-## Remove all dependencies and remain files from Oh my ZSH
+## Remove all dependencies and remaining files from Oh my ZSH
 
 <br />
 <br />
